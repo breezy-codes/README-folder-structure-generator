@@ -9,6 +9,14 @@
  ╚══╝ ╚╝╚═╝╚═══╝╚═══╝    ╚═══╝╚═══╝╚╝ ╚═╝╚═══╝╚╝╚═╝╚╝ ╚╝ ╚══╝ ╚═══╝╚╝╚═╝
 ```
 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Last Commit](https://img.shields.io/github/last-commit/breezy-codes/README-folder-structure-generator)
+![Issues](https://img.shields.io/github/issues/breezy-codes/README-folder-structure-generator)
+
 Turn your messy folders into **beautiful Markdown directory trees** complete with icons, links, and descriptions.
 Perfect for READMEs, documentation, or just showing off your project structure in style.
 
@@ -137,7 +145,9 @@ It only uses the imports of `os` and `json`, so no extra dependencies or virtual
 ## Icon Mapping
 
 All icons are customisable via `icon_mapping.json`.
+
 Want `.ipynb` files to show up with a different icon than 📓? Add it.
+
 Want `.wav` files to be 🎶? Done.
 
 ---
@@ -145,7 +155,6 @@ Want `.wav` files to be 🎶? Done.
 ## Future Ideas
 
 * [ ] Export to HTML with collapsible sections
-* [ ] VSCode extension
 
 ---
 
