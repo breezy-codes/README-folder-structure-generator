@@ -1,0 +1,17 @@
+```text
+sample-folder/
+├── 📁 code
+├── 🗒️ info.json
+├── 📁 samples
+│   ├── 🌐 sample1.html
+│   └── 🌐 sample2.html
+├── 📁 scr
+│   ├── 📁 other
+│   │   ├── 🐍 sample1.py
+│   │   └── 🐍 sample2.py
+│   ├── 🐍 sample1.py
+│   ├── 🐍 sample2.py
+│   ├── 🐍 sample3.py
+│   └── 🐍 sample4.py
+└── 🐍 test.py
+```
